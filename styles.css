@@ -258,16 +258,6 @@ td {
   flex: 0 1 auto;
 }
 
-footer {
-  margin: 20px auto 30px;
-  width: 60%;
-}
-
-.rsvp {
-  display: block;
-  text-align: center;
-}
-
 @media all and (max-width: 450px) {
   .main {
     width: 90%;
