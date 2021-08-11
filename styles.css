@@ -207,6 +207,7 @@ td {
 .fridge {
   float: left;
   width: 50%;
+  border-radius: 10px;
   margin-right: 30px;
   margin-bottom: 20px;
 }
@@ -216,7 +217,7 @@ td {
   flex-flow: column wrap;
   width: 100%;
   padding: 0 40px;
-  max-height: 800px;
+  max-height: 900px;
   align-items: stretch;
 }
 
