@@ -476,6 +476,10 @@ ul.a {
     max-height: 1500px;
   }
 
+  .travelinfo {
+    max-height: 800px;
+  }
+
   .donations {
     margin-bottom: 80px;
   }
