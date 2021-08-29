@@ -215,7 +215,6 @@ td {
 .travel {
   width: 100%;
   padding: 0 40px;
-  max-height: 1200px;
   align-items: stretch;
 }
 
@@ -231,12 +230,12 @@ td {
 
 ul.a {
   list-style-position: outside;
-  margin: 0 0 0 10px;
 }
 
 .travelinfo {
   display: flex;
   flex-flow: column wrap;
+  max-height: 700px;
 }
 
 .travinfo {
