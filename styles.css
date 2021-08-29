@@ -232,7 +232,7 @@ td {
 }
 
 ul.a {
-  list-style-position: inside;
+  list-style-position: outside;
 }
 
 .travinfo {
