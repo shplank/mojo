@@ -308,15 +308,12 @@ ul.a {
     margin-bottom: 20px;
   }
 
-  .travel {
-    max-height: 100%;
-  }
-
   .travinfo {
     margin: 10px auto;
     border-radius: 8px;
     width: 90%;
     padding: 0 20px 10px;
+    max-height: 100%;
   }
 
   .windfo {
@@ -362,10 +359,6 @@ ul.a {
 
   ul {
     padding: 10px 10px 0 10px;
-  }
-
-  .travel {
-    max-height: 100%;
   }
 
   .travelinfo {
@@ -451,6 +444,11 @@ ul.a {
     width: 90%;
     padding: 0 20px 10px;
     max-height: 100%;
+  }
+
+  .travinfo {
+    width: 90%;
+    margin: 10px auto;
   }
 
   .windfo {
