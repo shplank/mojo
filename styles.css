@@ -217,7 +217,7 @@ td {
   flex-flow: column wrap;
   width: 100%;
   padding: 0 40px;
-  max-height: 1600px;
+  max-height: 1500px;
   align-items: stretch;
 }
 
@@ -426,6 +426,10 @@ td {
 @media all and (min-width: 860px) and (max-width: 1200px) {
   .main {
     width: 70%;
+  }
+
+  .travel {
+    max-height: 100%;
   }
 
   .travinfo {
