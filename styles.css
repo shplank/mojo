@@ -372,6 +372,7 @@ ul.a {
     margin: 10px auto;
     width: 90%;
     padding: 0 20px 10px;
+    max-height: 100%;
   }
 
   .windfo {
@@ -408,14 +409,11 @@ ul.a {
     font-size: 20px;
   }
 
-  .travel {
-    max-height: 100%;
-  }
-
   .travelinfo {
     margin: 10px auto;
     width: 90%;
     padding: 0 20px 10px;
+    max-height: 100%;
   }
 
   .windfo {
@@ -448,14 +446,11 @@ ul.a {
     width: 70%;
   }
 
-  .travel {
-    max-height: 100%;
-  }
-
   .travelinfo {
     margin: 10px auto;
     width: 90%;
     padding: 0 20px 10px;
+    max-height: 100%;
   }
 
   .windfo {
