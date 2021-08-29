@@ -233,6 +233,7 @@ ul.a {
 }
 
 .travelinfo {
+  margin: 20px auto;
   display: flex;
   width: 90%;
   flex: 0 1 auto;
