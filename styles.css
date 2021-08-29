@@ -217,7 +217,7 @@ td {
   flex-flow: column wrap;
   width: 100%;
   padding: 0 40px;
-  max-height: 1100px;
+  max-height: 1600px;
   align-items: stretch;
 }
 
@@ -428,6 +428,10 @@ td {
     width: 70%;
   }
 
+  .travel {
+    max-height: 1300px;
+  }
+
   .travinfo {
     margin: 10px auto;
   }
@@ -456,6 +460,10 @@ td {
     max-height: 1500px;
   }
 
+  .travel {
+    max-height: 1400px;
+  }
+
   .donations {
     margin-bottom: 80px;
   }
@@ -468,6 +476,10 @@ td {
 @media all and (min-width: 1450px) {
   .donations {
     margin-bottom: 160px;
+  }
+
+  .travel {
+    max-height: 1500px;
   }
 
   .allphotos {
