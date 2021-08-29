@@ -231,6 +231,10 @@ td {
   background-color: #000;
 }
 
+ul.a {
+  list-style-position: outside;
+}
+
 .travinfo {
   margin: 20px auto;
   border: 1px solid #c3a474;
