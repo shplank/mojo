@@ -217,7 +217,7 @@ td {
   flex-flow: column wrap;
   width: 100%;
   padding: 0 40px;
-  max-height: 1200px;
+  max-height: 1100px;
   align-items: stretch;
 }
 
@@ -232,7 +232,7 @@ td {
 }
 
 ul.a {
-  list-style-position: outside;
+  list-style-position: inside;
 }
 
 .travinfo {
