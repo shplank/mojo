@@ -510,12 +510,7 @@ li {
   }
 
   .travelinfo {
-    max-height: 900px;
-  }
-
-  .travinfo {
-    width: 90%;
-    margin: 10px auto;
+    max-height: 1000px;
   }
 
   .windfo {
@@ -525,11 +520,11 @@ li {
 
   .allphotos {
     padding: 0 20px;
-    max-height: 1375px;
+    max-height: 1400px;
   }
 
   .details {
-    max-height: 1600px;
+    max-height: 1550px;
   }
 
   .photo {
@@ -544,7 +539,7 @@ li {
   }
 
   .details {
-    max-height: 1550px;
+    max-height: 1500px;
   }
 
   .travelinfo {
@@ -566,6 +561,6 @@ li {
   }
 
   .allphotos {
-    max-height: 2000px;
+    max-height: 1800px;
   }
 }
