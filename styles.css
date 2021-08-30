@@ -513,11 +513,6 @@ li {
     max-height: 1000px;
   }
 
-  .windfo {
-    width: 90%;
-    margin: 10px auto;
-  }
-
   .allphotos {
     padding: 0 20px;
     max-height: 1400px;
@@ -558,9 +553,5 @@ li {
 @media all and (min-width: 1450px) {
   .donations {
     margin-bottom: 160px;
-  }
-
-  .allphotos {
-    max-height: 1800px;
   }
 }
