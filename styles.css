@@ -234,7 +234,6 @@ ul.a {
 
 .travelinfo {
   margin: 20px auto;
-  padding: 0 40px 20px;
   display: flex;
   width: 90%;
   flex: 0 1 auto;
@@ -243,18 +242,18 @@ ul.a {
 }
 
 .travinfo {
-  margin: 20 auto;
+  margin: 20px auto;
   border: 1px solid #c3a474;
   border-radius: 10px;
-  width: 50%;
+  width: 45%;
   flex: 0 1 auto;
   padding: 0 40px 20px;
   background-color: #000;
 }
 
 .windfo {
-  width: 50%;
-  margin: 20 auto;
+  width: 45%;
+  margin: 20px auto;
   flex: 0 1 auto;
   background-color: #000;
 }
