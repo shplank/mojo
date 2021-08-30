@@ -308,6 +308,11 @@ ul.a {
     margin-bottom: 20px;
   }
 
+  .travelsafety {
+    margin: 10px auto;
+    padding: 0 10px 10px;
+  }
+
   .travelinfo {
     margin: 10px auto;
     border-radius: 8px;
@@ -319,6 +324,7 @@ ul.a {
   .travinfo {
     width: 100%;
     margin: 10px auto;
+    padding: 0 10px 10px;
   }
 
   .windfo {
@@ -366,6 +372,11 @@ ul.a {
     padding: 10px 10px 0 10px;
   }
 
+  .travelsafety {
+    margin: 10px auto;
+    padding: 0 10px 10px;
+  }
+
   .travelinfo {
     margin: 10px auto;
     width: 100%;
@@ -376,6 +387,7 @@ ul.a {
   .travinfo {
     width: 100%;
     margin: 10px auto;
+    padding: 0 10px 10px;
   }
 
   .windfo {
@@ -410,6 +422,11 @@ ul.a {
 
   h2 {
     font-size: 20px;
+  }
+
+  .travelsafety {
+    margin: 10px auto;
+    padding: 0 10px 10px;
   }
 
   .travelinfo {
