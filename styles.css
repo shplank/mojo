@@ -416,7 +416,7 @@ li {
   }
 }
 
-@media all and (min-width: 650px) and (max-width: 860px) {
+@media all and (min-width: 650px) and (max-width: 850px) {
   .main {
     width: 80%;
   }
@@ -468,7 +468,7 @@ li {
   }
 }
 
-@media all and (min-width: 860px) and (max-width: 1100px) {
+@media all and (min-width: 850px) and (max-width: 1050px) {
   .main {
     width: 70%;
   }
@@ -496,7 +496,7 @@ li {
   }
 
   .details {
-    max-height: 1625px;
+    max-height: 1650px;
   }
 
   .photo {
@@ -504,14 +504,47 @@ li {
   }
 }
 
-@media all and (min-width: 1100px) and (max-width: 1450px) {
+@media all and (min-width: 1050px) and (max-width: 1250px) {
+  .main {
+    width: 70%;
+  }
+
+  .travelinfo {
+    max-height: 900px;
+  }
+
+  .travinfo {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .windfo {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .allphotos {
+    padding: 0 20px;
+    max-height: 1375px;
+  }
+
+  .details {
+    max-height: 1600px;
+  }
+
+  .photo {
+    margin: 10px auto;
+  }
+}
+
+@media all and (min-width: 1250px) and (max-width: 1450px) {
   .allphotos {
     padding: 0 30px;
     max-height: 1450px;
   }
 
   .details {
-    max-height: 1575px;
+    max-height: 1550px;
   }
 
   .travelinfo {
