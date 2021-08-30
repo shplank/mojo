@@ -228,7 +228,7 @@ td {
   background-color: #000;
 }
 
-ul.a {
+.travlist {
   list-style-position: outside;
 }
 
@@ -310,7 +310,7 @@ ul.a {
 
   .travelsafety {
     margin: 10px auto;
-    padding: 0 10px 10px;
+    padding: 0 20px 10px;
   }
 
   .travelinfo {
@@ -324,7 +324,7 @@ ul.a {
   .travinfo {
     width: 100%;
     margin: 10px auto;
-    padding: 0 10px 10px;
+    padding: 0 20px 10px;
   }
 
   .windfo {
@@ -374,7 +374,7 @@ ul.a {
 
   .travelsafety {
     margin: 10px auto;
-    padding: 0 10px 10px;
+    padding: 0 20px 10px;
   }
 
   .travelinfo {
@@ -387,7 +387,7 @@ ul.a {
   .travinfo {
     width: 100%;
     margin: 10px auto;
-    padding: 0 10px 10px;
+    padding: 0 20px 10px;
   }
 
   .windfo {
@@ -426,7 +426,7 @@ ul.a {
 
   .travelsafety {
     margin: 10px auto;
-    padding: 0 10px 10px;
+    padding: 0 20px 10px;
   }
 
   .travelinfo {
@@ -439,6 +439,7 @@ ul.a {
   .travinfo {
     width: 100%;
     margin: 10px auto;
+    padding: 0 20px 10px;
   }
 
   .windfo {
