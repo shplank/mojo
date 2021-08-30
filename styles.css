@@ -492,11 +492,11 @@ li {
 
   .allphotos {
     padding: 0 20px;
-    max-height: 1400px;
+    max-height: 1300px;
   }
 
   .details {
-    max-height: 1600px;
+    max-height: 1625px;
   }
 
   .photo {
@@ -507,11 +507,11 @@ li {
 @media all and (min-width: 1100px) and (max-width: 1450px) {
   .allphotos {
     padding: 0 30px;
-    max-height: 1500px;
+    max-height: 1450px;
   }
 
   .details {
-    max-height: 1550px;
+    max-height: 1575px;
   }
 
   .travelinfo {
