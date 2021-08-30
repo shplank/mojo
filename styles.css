@@ -229,7 +229,9 @@ td {
 }
 
 .travlist {
-  text-indent: -20px;
+  padding: 0 0 0 5px;
+  text-indent: -22px;
+  color: #fff;
 }
 
 .travelinfo {
