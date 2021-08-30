@@ -229,7 +229,7 @@ td {
 }
 
 .travlist {
-  list-style-position: outside;
+  text-indent: -20px;
 }
 
 .travelinfo {
@@ -392,7 +392,7 @@ td {
 
   .windfo {
     width: 90%;
-    margin: 10px;
+    margin: 10px auto;
   }
 
   .allphotos {
