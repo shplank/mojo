@@ -220,11 +220,11 @@ td {
 
 .travelsafety {
   margin: 20px auto;
+  padding: 0 40px 20px;
   border: 1px solid #c3a474;
   border-radius: 10px;
   width: 90%;
   flex: 0 1 auto;
-  padding: 0 40px 20px;
   background-color: #000;
 }
 
@@ -234,15 +234,16 @@ ul.a {
 
 .travelinfo {
   margin: 20px auto;
+  padding: 0 40px 20px;
   display: flex;
-  width: 93%;
+  width: 90%;
   flex: 0 1 auto;
   flex-flow: column wrap;
   max-height: 700px;
 }
 
 .travinfo {
-  margin: 20px auto;
+  margin: 0 auto;
   border: 1px solid #c3a474;
   border-radius: 10px;
   width: 45%;
@@ -253,7 +254,7 @@ ul.a {
 
 .windfo {
   width: 45%;
-  margin: 20px auto;
+  margin: 0 auto;
   flex: 0 1 auto;
   background-color: #000;
 }
