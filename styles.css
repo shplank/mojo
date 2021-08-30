@@ -171,7 +171,7 @@ td {
   display: flex;
   flex-flow: column wrap;
   width: 100%;
-  max-height: 1500px;
+  max-height: 1450px;
   align-items: center;
 }
 
@@ -496,7 +496,7 @@ li {
   }
 
   .details {
-    max-height: 1500px;
+    max-height: 1550px;
   }
 
   .photo {
@@ -507,6 +507,10 @@ li {
 @media all and (min-width: 1200px) and (max-width: 1450px) {
   .allphotos {
     padding: 0 30px;
+    max-height: 1500px;
+  }
+
+  .details {
     max-height: 1500px;
   }
 
