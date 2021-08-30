@@ -496,7 +496,7 @@ li {
   }
 
   .details {
-    max-height: 1575px;
+    max-height: 1600px;
   }
 
   .photo {
@@ -511,11 +511,11 @@ li {
   }
 
   .details {
-    max-height: 1525px;
+    max-height: 1550px;
   }
 
   .travelinfo {
-    max-height: 900px;
+    max-height: 800px;
   }
 
   .donations {
@@ -533,6 +533,6 @@ li {
   }
 
   .allphotos {
-    max-height: 2100px;
+    max-height: 2000px;
   }
 }
