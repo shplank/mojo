@@ -229,9 +229,12 @@ td {
 }
 
 .travlist {
-  padding: 0 0 0 10px;
   text-indent: -22px;
   color: #fff;
+}
+
+li {
+  margin-left: 10px;
 }
 
 .travelinfo {
@@ -368,10 +371,6 @@ td {
 
   h2 {
     font-size: 20px;
-  }
-
-  ul {
-    padding: 10px 10px 0 10px;
   }
 
   .travelsafety {
