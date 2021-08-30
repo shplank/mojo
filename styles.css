@@ -235,7 +235,7 @@ ul.a {
 .travelinfo {
   margin: 20px auto;
   display: flex;
-  width: 94%;
+  width: 93%;
   flex: 0 1 auto;
   flex-flow: column wrap;
   max-height: 700px;
@@ -245,14 +245,14 @@ ul.a {
   margin: 20px auto;
   border: 1px solid #c3a474;
   border-radius: 10px;
-  width: 47%;
+  width: 45%;
   flex: 0 1 auto;
   padding: 0 40px 20px;
   background-color: #000;
 }
 
 .windfo {
-  width: 47%;
+  width: 45%;
   margin: 20px auto;
   flex: 0 1 auto;
   background-color: #000;
@@ -317,12 +317,12 @@ ul.a {
   }
 
   .travinfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
   .windfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
@@ -374,12 +374,12 @@ ul.a {
   }
 
   .travinfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
   .windfo {
-    width: 90%;
+    width: 100%;
     margin: 10px;
   }
 
@@ -420,12 +420,12 @@ ul.a {
   }
 
   .travinfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
   .windfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
@@ -462,12 +462,12 @@ ul.a {
   }
 
   .travinfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
   .windfo {
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
   }
 
